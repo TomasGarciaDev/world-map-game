@@ -39,7 +39,7 @@ Alternatively, you can install the code and run the app locally:
 1. From the command line, clone this repository to your machine:
 
 ```
-git clone https://github.com/sherwingp/world-map-game.git
+git clone https://github.com/TomasGarciaDev/world-map-game.git
 cd world-map-game
 ```
 
